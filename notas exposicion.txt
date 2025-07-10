@@ -1,0 +1,128 @@
+Fotografía--invento revolucionario más artistico
+Cine mudo-- nacio en 1890 justamente por esa busqueda más alla de la fotografia, surgio esta incognita de ver que se podian hacer movimientos con las imagenes colocandola una tras otra creando asi el movimiento y de esa forma nació por lo mnos una idea cine. Como lo hacian? pues:
+ 	-- empezaron con interaccion de actores con el publico, -lo atractivo de esto era el movimiento, los gestos, no se necesitaban dialogos, a raiz de que el cine siguió creciendo pues buscaban otras formas para conectar con las personas, asi nacieron las:
+	
+Interfaces de intertitulos
+	--en 1920,literalmente usaban cartulinas o tarjetas de carton para escribir textos muy breves para acompañar las escenas de los actores, para explicar algo en especifico de un dialogo y asi el usuario pudiera interpretarlo y lo que hacian era poner estas tarjetas o cartulinas entre cada rollo, el cineasta los manipulaba con sus manos para que cada intertitulo apareciera en el momento mas conveniente de la pelicula.
+ 
+	-- 1903 los hermanos lumiere crearon el cinematografo, uno de los primeros instrumentos que 	permitio la proyeccion de estos intertitulos.
+	
+Interfaz de narracion visual
+	--Surge a traves de la necesidad de transmitir más al publico por medio de imagenes exageradas, escenas exageradas, expresiones faciales fuertes, gestos.
+
+----Film editing machine: literalmente era una mesa donde ellos cortaban y unian los rollos para crear secuencias de imagenes para  distintas narraciones visuales como son la composicion de imagenes:
+	--Por ejemplo esta composicion de imagen de  este señor Méliès creó esta imagen de la nave espacial clavada en el ojo de la Luna, que visualmente fue muy impactante y es un ícono del cine incluso todavía, podemos ver como en el cine moderno aun en varios cines del pais como la Sala garbo le rinden mucho tributo a peliculas como estas porque causaron impactos visuales en su momento.
+
+	
+	--Montaje paralelo:  donde se intercalan dos o más escenas que suceden en escenarios distintos, alternando imágenes de ambas situaciones, creando así ideas en el espectador.
+	--Psycho: Aca tenemos el ejemplo de la pelicula PSYCHO, que una de las escenas mas famosas es justamente esta escena de la ducha, que en lugar de mostrar la violencia de manera explícita, este señor opta por fragmentar los planos DE AMBOS ACTORES, creando una sensación de confusión, peligro y terror en el publico.
+	--El cine mudo y aun asi las narraciones visuales me parecen muy limitados para esa epoca para personas que tenian discapacidades visuales.
+
+
+Interfaz del sonido:
+         -- caida total del cine mudo 1927 y 1929
+	-- al inicio se crea sonido para acompañar a esa conversacion que no puede estar, ya nadie queria intertitulos, la gente empezó a tener una conexion con la musica.
+	--El primer ejemplo de esta conexion con la musica fue con las orquestas en la sala de cine,
+la orquesta tocaba al ritmo de la proyeccion de la pelicula.
+	--Luego surge el fonografo sincronizado creado en 1890, permitía agregar sonido sincronizado a las 	películas mudas 
+	--entre 1910-1930 se empezaron a construir los fotoplayer, no era necesario ser musico o saber tocar el piano ya que tenia un sistema de ejecucion automatica que funcionaba con el aire y el ejecutante lo unico que tenia que hacer era tocar o jalar botones y cuerdas.
+
+	--El cantor de jazz" donde se utilizó sonido sincronizado por primera vez, que consistía en grabaciones de sonido en discos de vinilo que se sincronizaban con la película proyectada, basicamante marcando así el comienzo de la era del cine sonoro.
+	
+Interfaz del color:
+	--Otro ejemplo de interfaz usada fue la del color, pasaron de usar blanco y negro en las peliculas a implementar una tecnica llamada technicolor que lo que hacian era colorear  a mano los fotogramas usando tintes y pinturas y por medio de la Technicolor camera  usaban como un sistema de filtros que dividían la luz en rojo, verde y azul para luego aplicar tinte a cada rollo.
+
+Aqui hay dos ejemplos donde se aplico la Tecnicolor: en las peliculas de el mago de Oz y en Becky sharp
+
+       --Algo que me parece muy curioso es que algunas películas en el 	cine mudo eran a color porque tenían como un cierto tipo de código de acuerdo a la 	locación, ejemplo si la escena ocurría en un plano en el exterior usaban el color azul y si lo hacían en un plano interior era un color café como para diferenciar ciertos contextos y que los usuarios entendieran la idea.
+	
+
+Y bueno finalmente haciendo enfasis en las interfaces modernas todo esto anterior lo vino a sustituir nada más y nada menos que las ocmputadoras, una de las interfaces:
+
+--Son las de efectos visuales (Visual effects) que se enfocan explicitamente en eso en hacer una experiencia visual increible por medio de graficos, imagenes, animaciones, todos esos entornos futuristas, explosiones, 3D que no se pueden filmar facilmente en la vida real.
+
+Por aca tenemos las intefaces de edicion de video NLE (Non-Linear Ediring) donde adobe premiere es el protagonista y es el programa más utilizado para esto que me permite hacer edicion de video digital en el que los clips no tienen que editarse en orden secuencial, como ocurría en la edición lineal tradicional, donde se cortaban y pegaban segmentos de cinta de forma física y donde se puede editar en cualquier momento cualquier parte sin afectar el orden. 
+
+Otras son las Interfaces de Estaciones de Trabajo de Audio Digital (DAW) (digital audio workstation) esta interfaz es de las más completas porque permite grabar, editar, mezclar y producir música y sonido en uno, ademas que no solo son utilizadas en el cine, sino tambien por músicos, productores, compositores etc
+
+Y por ultimo las Interfaces de Software de Corrección de Color son herramientas diseñadas para ajustar y manipular la apariencia cromática de imágenes y vídeos dejando atras las tencicas del technicolor, viene a sustituirlo Davinci Resolve por ejemplo que es el programa más utilizado para las correciones de color.
+
+_____________________________________________________________________
+
+
+PREGUNTAS
+
+1.
+Cual es el futuro de la tecnologia de la interfaz del cine?
+
+Es probable que veamos una mayor integración de tecnologías emergentes como la realidad virtual (VR), la realidad aumentada (AR) y la inteligencia artificial (IA), donde nosotros podamos interactuar con el entorno de la película, de hecho ya existe uno en un episodio de black mirror que se llama Bandersnatch, es el unico que he visto hasta el momento implementado en un capitulo de una serie donde podemos influir en la trama de la historia. 
+
+Tambien con el uso de la inteligencia artificial me imagino poder personalizar la experiencia del usuario, basadas en sus preferencias o incluso creando peliculas personalizadas segun los gustos de cada usuario y ojala usando estas en entornos donde las personas aisladas porque represenan un peligro para la sociedad, que esto venga a ser como un estimulo.
+_____________________
+2.
+Va a haber más impacto positivo que negativo?
+
+Creo que ambos van de la mano,  está destinada a tener tanto impactos positivos como negativos en el futuro.
+
+Impacto positivo:
+
+Accesibilidad:  más accesible para una audiencia más amplia al ofrecer experiencias más inmersivas y personalizadas.
+
+
+Impacto negativo:
+
+
+Dependencia tecnológica: no solo va a afectarnos a nostros como usuarios, creo que todos hemos opinado en cuando a esto, pero que hay en cuanto a los cineastas, la produccion cinematografica? podría disminuir la creatividad y la originalidad en la producción cinematográfica si se prioriza la tecnología sobre la calidad artística.
+
+
+Brecha digital: Las nuevas interfaces podrían ampliar la brecha digital, dejando atrás a aquellos que no tienen acceso a la tecnología necesaria para disfrutar de las experiencias cinematográficas modernas.
+____________________
+3.
+ Ventajas de las interfaces en la antigüedad: Habia mayor participación del público, de estar interactuando con los actores del cine, era algo emocionante y de cierta forma los hacía sentir incluidos, ahi no existia tanta verguenza como ahora, no habian celulares ni redes sociales que me estuvieran grabando, todo se vivia en el momento.
+
+-Desventaja: totalmente era la limitacion tecnológica impidiendo una mayor interacción con el publico.
+
+-Ventajas de las interfaces en la actualidad: La comodidad, ya que nos permiten a nosotros como espectadores comprar entradas online, seleccionar asientos y comprar alimentos sentados desde un asiento VIP, lo que ahorra tiempo y evita las largas filas en el cine.
+
+Desventajas: una de las mayores desventajas es la dependencia a la tecnologia, que siempre va a estar sujeta a interrupciones tecnicas o problemas de conectividad y
+a diferencia del cine antiguo puede crear distanciamineto social, ya que contamos con todo este universo de streaming en casa, puede llevarnos a decir: "no la vd es que esto que está ahorita en el cine yo despues
+puedo verlo aqui acostada en mi cama" lo cual me esta impidiendo la oportunidad de la experiencia de
+una sala de cine.
+
+La privacidad se puede ver afectada con los datos personales de los usuarios, como la información de pago se pueden ver comprometidas en las plataformas en línea.
+_________________
+4.
+Qué propondria desde el punto de vista de un desarrollador-diseñador para mitigar los impactos negativos de el futuro del cine morderno?
+
+-Accesibilidad y inclusión: Garantizar que las interfaces modernas sean accesibles para personas con discapacidades y para aquellos que pueden tener acceso limitado a la tecnología.
+
+-Equilibrio entre tecnología y la narrativa cinematográfica, que esas nuevas interfaces mejoren la historia y la experiencia del espectador en lugar de dominar el arte en si, esto se podria decir como creatividad antes de mediocridad.
+
+- Promover la educación digital entre los espectadores para ayudarlos a comprender y aprovechar al máximo las interfaces modernas del cine. Esto puede incluir la creación de recursos educativos y programas de capacitación para enseñar habilidades digitales básicas.
+
+_____________
+5.Como ha cambiado la interaccion humana con las interfaces anteriores a las digitales en el cine?
+
+Con la llegada de la era digital, la interacción humana en el cine ha evolucionado. Se han introducido proyectores digitales, pantallas 3D y aplicaciones para comprar boletos y reservar asientos.
+
+-Manipulación de dispositivos físicos: La interacción con interfaces analógicas en el cine incluía manipular dispositivos físicos como boletos de entrada, ya ahora siguen exisitiendo pero muchas personas prefieren adquirir entradas online.
+
+ -La interacción humana con las interfaces en el cine de antes se caracterizaba por esa interacción directa con dispositivos físicos relacionados con la proyección y la experiencia cinematográfica y poder controlar ciertos aspectos, como ajustar el volumen de los altavoces, cambiar la posición en la sala para obtener una mejor vista de la pantalla y reaccionar en tiempo real a lo que estaba sucediendo en la película.
+
+
+-Las personas solían ir al cine en grupos para ver películas juntas, lo que creaba una experiencia social compartida.
+
+______________________________
+
+6.Cual sea mejor a la evolucion en cuanto a la evolucion fisica de las interfaces del cine?
+
+Bueno antes se ituilizaban proyectores de película más mecánicos, que usaban carretes de película física, ahora con la tecnología digital, los proyectores de película mecánicos fueron reemplazados por proyectores digitales, que aqui ya se utilizan archivos digitales para la proyección en lugar de carretes de película física, permitiendo una mayor calidad de imagen y sonido.
+
+Algunas salas de cine están experimentando con tecnologías que van más allá de la simple proyección de películas, como asientos con movimiento, efectos de viento y vibración, y sistemas de aromatización que añaden olores específicos a ciertas escenas.
+
+
+_____________________________
+7. Mejorías
+
+Diseño Sostenible: se pueden diseñar interfaces de cine que sean sostenibles desde el punto de vista ambiental, utilizando materiales reciclables y minimizando el consumo de energía.
+

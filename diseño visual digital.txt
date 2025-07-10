@@ -1,0 +1,325 @@
+acordero@ucenfontec.ac.cr
+https://calendly.com/acorderop
+
+A la profe no le gusta mucho borde pronunciado en las imagenes.
+Elegir colores que estén en el logo.
+
+Diseño Visual Digital
+
+UX/UI: la herramienta ideal es Figma.
+
+Para que sirve el diseño?
+
+1.Crear experiencias, ejemplo como los anuncios de la coca cola.
+2. Lograr que la info sea atractiva, legible y facil comprension par alos usuarios.
+3.Tomamos conceptos complejos y los transformamos en piezas de comunicacion, acordes al publico meta
+
+Por donde empezamos?
+1.Piensa primero en los usuarios: investigar, que les gusta al usuario
+
+Storytelling: arte de contar una historia para que el oyente se la apropie y genere un significado personal. Nos venden una experiencia
+
+Ilustracion vectorial:
+Si descargamos un jpg no podemos editarla a menos que metamos a un programa como photoshop pero si se hace más grande se pixela. JPG me mete de una vez un fondo blanco
+Png: tiene distinta cantidad de colores, nos permite tener fondos transparentes.
+Las imagenes vectoriales son imagnes con operaciones matematicas que nos permite crear lineas y editables sin que se pierda la nitidez, son completamente editables:
+SVG: se usa principalmente en la web.
+
+Como elegir una paleta cromatica y tipografica?
+
+Paginas: color.adobe.com
+fonts.google: tipografia
+
+Inlusion en el diseño: incluir a las personas independientemente de su religion, raza, etc
+Buscamos accesibilidad en este curso, no inlusividad: cualquier persona con impedimento visual u otro pueda usar nuestra pagina web sin difcultades.
+
+Tarea interfaces: 30%
+trabajo en clase 20%
+proyecto final: 35%
+15%
+
+Diseñador grafico: resuelve problemas de comunicacion, no es el que hace dibujitos
+El diseño es ls representación grafica que conceptualizamos gracias a un concepto determinado.
+El arte: es una forma de expresion, el artista elige el medio en el que se quiere expresar y desarrolla ese arte para que la gente lo interprete, ejemplo la sonrisa de la monalisa todos le dan una opinion distinta a la pintura, el arte es subjetivo.
+
+El diseño: los diseñadores crean obras artisticas con un significado en especifico, a los clientes no se le pueden dejar nada para la interpretacion, toma un problema de comunicacion y lo transforma en algo visual.
+
+
+UX: el por qué, es la investigacion que hacemos nosotros del usuario, antes de hacer cualquier cosa hay que investigar que quiere el usuario, que se sienta identificado, que es para ellos. El ejemplo de la pizza para adolescentes o pizza para adultos mayores.
+Tambien tiene que ver el status, una pizzeria italiana de Escalante a una pizzeria del barrio.  El Ux nos ayuda a hacer wireframes, arquitectura d ela informacion, testing.
+
+UI: User interface: Visual design, reponde al cómo? responde al Ux segun lo investigado, que colores vamos a escoger, que imagenes irian mejor de acuerdo al UX.
+
+Sketch es otro programa que nos ayuda a hacer prototipos de paginasweb.
+Adobe Xd: es otra herramienta de prototipado.
+
+
+Figma es una combinación de Photoshop e ilustrator. creados por Dylan Field y Evan Wallace.
+Beneficios: comunicacion grupal
+
+Libro de marca: los diseñadores hacen un libro para definir la marca a una compañia, da las pautas a las personas para que nadie se salga de lo que tiene que hacer, cuales son los valores d ela empresa, los colores, el texto, como se construye el texto del logo, oaletas, tipografias.
+
+Design system: es la version digital del libro digital, nos da unidad de marca.
+
+Si en diseño elegimos usar linea redondeada, deberiamos usar redondeado todo lo demás por ejemplo en un chat, lo que envuelve el texto.
+
+Inovacion radical: la forma de ver las cosas cambia completamente, pero es algo que ya existe.
+
+
+del triangulo una pizza, una piramide y una montaña
+
+del circulo: una bola de nieve con manos, un collar con el dije en forma de circulo y lo de los lados es donde se amarra
+___________________________________________________
+
+Clase 2- Interfaces
+
+Una interaccion con cualquier objeto
+EJ: un lapiz es toda una interfaz, podemos ocarlo, escribir, borrar.
+La interfaz se divide en 2:
+1. Affordances: lo que puede hacer un objeto segun su usuario, es una propiedad del objeto o del sistema, no del usuario.
+ejemplo: si se le da un lapiz a john wick él no va a escribir, lo ve como un arma mortal.
+2.Signifier: nos aclara la funcion del objeto, lo que puede hacer.
+
+WIMP: el medio que utiliza una persona para comunicarnos con la maquina, dispositivo o computadora
+Ej: iconos, ventanas, mouse, mouse pointer. Son faciles de utilizar
+
+GUI(Interfaz grafica)
+presenta todas las imagenes graficas, una simulacion.
+
+Interfaz de linea de comandos (CLI)
+el usuario introduce dirtectamente los comandos especificos
+
+Interzas de usuario (TUI)
+Solo se usaban textos para ejecutar las ordenes y transmitir la info, interactuando de una manera mas sencilla a traves del texto.
+
+Interfaz de usuario de voz (VUI)
+UNO DE LOS AVANCES MAS IMPORTANTES EN TERMINO DE ACCESIBILIDAD, en la actualidad tenemos a siri, alexa
+
+Interfaz de usuario de voz(NUI)
+Interaccion con gestos, toques o acciones manuales, son intuitivas: movemos el dedo, hacemos click
+
+Tareas de un diseñador de interfaces:
+1.Planeamiento: investigacion (recopilacion de publico meta del cliente), base de datos, analisis de datos para ver similitudes entre los usuarios, historias de usuarios(sirven para hacer campañas a un usuario en especifico que ame mcdonals o hacer una campaña para contrarestar la opinion mala de un usuario que no le guste mcdonals), mapa del sitio web (es la parte tecnica)
+
+2.Exploracion: bocetos, prototipos de baja fidelidad (en figma hay opciones para hacerlos)
+
+3.Diseño: colores, guia de estilos, como se va a animar, presentaciones con clientes o negocio
+
+4.Testeo QA: diseños finales, testeo
+
+5.Testeo con usuarios:documentacion
+
+Histria del GUI:
+
+Es la unificacion de las interfaces anteriores.
+
+Radio direction finding: combinaba interfaz analoga con una digital en 1935, desarrollada en la 2da guerra mundial.
+
+Xeros alto:la primera computadora en demostrar la metafora de escritorio y la interfaz grafica del usuaario(GUI), ES UNA METAFORA DE NUESTRO ESCRITORIO REAL.
+
+Tarea: primera investigación de interfaces de cine. Ejemplo no es una investigacion del tema, cuales fueron los primeros instrumentos que se usaron, como aplicaban en los pacientes, como se utiliza hoy en dia en las intefaces digitales, como interactuan los medicos, es posible que un doctor en japon pueda realizar una operacion en estados unidos? presentacion creativa: programas online, power point.
+Entregar escrito, es libre sin APA.
+
+El escrito es un poco mas formal de la investigacion, bibliografia y conclusiones
+La presentcion es animada con imagenes, sin textos
+enviar el escrito de hoy en 15 y pasarla al correo
+como fue que las personas empezaron a interactuar con las interfaces, ventajas y desventajas
+pregunta cua va a ser el futuro del tema que elegimos?
+
+_____________________________________________________
+
+Clase 3-Composición
+
+1. Controlar la atencion de los usuarios: nos damos cuenta que el usuario prestará atencion a un bloque principal, ejemplo la pagina de google (que es solo buscar) 
+2. Mantener la atencion del usuario:  amazon (a amazon primero le interesa tirar sus ofertas), luego otro y asi capturar la atencion.
+
+Los colores que más llaman atencion a la gente en orden: naranja, rojo, verde, azul etc
+3 formas de crear jerrquías con la ayuda del color:
+
+Contraste: cuando hay un color que esmuy diferente al resto, el que crea contraste nos llama la atencion.
+
+Saturacion: Juega con el color, el blanco y negro no se consideran colores como tal, el blanco es dado por la ilmincacion y el negro es la falta de luz, para generar el gris es la mezcla de estos, el gris es una saturacion o un tono. Si empezamos a desaturar el negro podemos ver como se va siendo gris. Entre mas saturemos un color más va a sobresalir.
+Poner blanco a cualquier color vamos a desaturar el color y convertirlo a pastel.
+Por jemplo para convertir un tono a naranja ocupamos amarillo y rojo.
+
+Iluminacion: no es acerca del % que tiene una del otro, sino de cuanta lo recibe. Ejemplo: el color negro es una sombra y la iluminacion es el color amarillo.
+
+Caravaggio es un pintor que usa los principios del arte, como iluminacion y sombra.
+
+Otra forma de crear jerarquia es a traves de la forma: ejemplo 9 cuadros negros y en el centro un circulo negro
+
+Otra es el espacio negativo: 12 cuadros y un espacio en blanco en el centro.
+
+Alineacion: vamos a buscar el que se desalinea con los demas, ejemplo unos cuadros lineales y otro que se sale un poco.
+
+Balance: tenemos la percepcion de que se da teniendo la misma cantidad de elementos de un lado que el otro, el ojo quiere balancer dos figuras ejemplo un cuadro gris y otro negro, el gris no llama la atencion como el negro, si le pongo un circulo negro sobre el gris nos llama más la atencion este, y si le pongo un circulo blanco adenro del cuadro negro me llama más la atencion este por colores mas fuertes.
+Ej el logo del nintendo switch no está balanceado, pero está correctamente visual. El balance tambien se utiliza con las letras y tiene que ver tamb con el balance visual.
+El balance no tiene que ser matematicamente correcto, la regla del bañance está hecha para romperse.
+
+Proximidad: Se puede romper la regla pero adecuadamente.
+Un diseño del antes: unos cuadros no tan ordenados pero que se pueden ver más bonitos que el diseño del despues por mas que sea ordenado, se nota un poco aburrido, pero aunque sea aburrido tiene que tener jeraquia y que no sea vea caotico y feo.
+Un diseño del despues: unos cuadros ordenados.
+
+Teoría del color: Los colores reales son el sian y el magenta.
+CMYK: son los colores de impresión. Cada % que yo cambie, me va a ir generando colores distintos. 
+Colores primarios: C es cion, M es magenta, Y es yellow y K es negro.
+RGB: es la luz. R es red, G es green y B blue, todo dispositivo digital tiene que usarse RGB.
+Los formatos de impresion y digiales son muy distintos, no podemos imprimir algo que hicimos digital porque los colores saldrían distintos.
+
+Si un proyecto es muy complejo que usa colores neonea y se va a imprimir se debe de preguntar primero para hacerlo en cmk.
+
+El dorado y plateado no existen como colores, se les llama tintas especiales, son trucos de combinacion de colores para obtener los colores deseados.
+Las imprentas trabjan con toners y hay uno especificamente con tina lanca que sirve para hacer impresiones, pweo en digital es complicado que se imprima en blanco.
+En digital el negro no se utiliza, solo se descompone
+
+Colores frio: son mas fuertes: azul, morado, verde
+Colores calidos: son mas "joviales": naranja, rojo, amarillo
+
+Color monocromatico: cuando tenemos un solo color y le agregamos diferentes matices, son elegantes 
+Color Complementario:  colores que estan opuestos en la rueda de color, ejemplo el azul con el amarillo naranja, el rojo con el verde.
+Color analogo: estan uno al lado del otro, ejemplo amarillo, amarillo naranja y rojo o celeste verde y verde limon, se puede usar al 100% o con matiz.
+Triada: estan acomodados de manera tipo trangulo equilatero dentro de la rueda, se puede usar en monocromaticos o pasteles.
+
+Emociones a traves del color en marcas: Rojo: peligro, energia, pasion, dinamismo, agresivo.
+Azul: calma, integridad, seriedad. Como negativo se relaciona a la tristeza.
+Verde: etica, organico, frescura, naturaleza, serenidad.
+Amarillo: calidez, alegria, amabilidad, positividad.
+Naranja: juventud, vitalidad, diversion, innovacion.
+Violeta: lujo, misterio, sabiduria. 
+Rosa: romance, femenino, delicadeza, inocencia. 
+Marron:Masculino, tierra, natural, rustico.
+Gris: autoridad, neutral, respeto, sencillez.
+Negro: poder, sofisticado, muerte, valor.
+
+Tipografia en el diseño UI: la profe usa helvetica neue
+8 REGLAS:
+1.JERARQUIA TIPOGRAFICA: display: casi siempre esta en el heder, carousel,
+heading: titulares
+overline o caption: una fecha, un autor
+body: tmaño de la mayor parte de la web
+
+2.ELECCIONES DE FUENTES: las letras que tienen menos adornos se van a ver mejor, al ser algo estatico donde el usuario pueda acercar y alejar es mas legible.
+Payfair por ejmplo no se deberia usar en un body.
+
+4.Alineacion de textos: casi siempre va a ser leeer de izq a derecha y luego bajamos creando tipo una Z.
+
+Iconos: deber ser todos del mismo color, mismo diseño, si uso lineas cuadradas todos deber ser asi o todos con bordes redondeados.
+
+
+Cual es la diferencia entre realidad virtual y realidad aumentada?
+
+Solo podemos interactuar con ella por medio de un visor, no nos permite interactuar fisicamente, si no dentro con la interfaz visual que nosotros creamos.
+ La aumentada nos permite interactuar con un entorno digital y otro real, como un apple watch o unos lentes. Ejemplo un libro y uno lentes que si me los pongo puedo ver un dinosaurio saliendo del libro. Imagenes, videos que podamos sobreponer a un ambiente real
+
+La mixta e suna combinacion de virtual con aumentada, ejemplo de una maquina con un motor que esta en construccion pero aun no esta creado y una persona con unos lentes viendo esta maquina con el motor que aun no existe para darse una idea de lo que va a ser.
+
+Hologramas: son proyecciones de imagenes sobre una superficie que los hace ver en 3D, si no hay luz no podemos verlos.
+
+__________________________
+Semana 5
+
+Leyes y principios del diseño
+
+________________________
+Semana 6:
+Bershka: El blanco y negro, en este contexto, puede transmitir un sentido de modernidad, minimalismo y estilo urbano, atrayendo a un público joven que busca tendencias de moda contemporáneas.
+Ralph Lauren: El blanco y negro  con tonos neutros como blanco, negro, gris y azul marino. Estos colores transmiten una sensación de elegancia atemporal y refinamiento, lo que refleja el enfoque de la marca hacia un público adulto interesado en la moda de alta calidad y el estilo tradicional.
+
+Retícula: divide las paginas vertical y horizontalmente por medio de columns y rows.
+Modulos: donde va el contenido de la web
+Gutter o canales: tamaño comun 20 px, son lineas que separan columnas y filas, separan espacio negativo, para que no se vea todo pegado en el diseño.
+Márgenes: que están alrededor o en el borde.
+Bloques: sirven para contar "acerca de nostros", crear landing pages.
+
+Leyes de Gestalt:percepcion visual de ver formas en nubes, paredes etc.
+El espacio negativo es un elemento silencioso que está ahi.
+
+Un ejemplo real de cada principio de gestalt
+
+el iphone en el banner es el principio de cierre, uno ve que ahi está el telefono aunque no esté completo.
+
+La persona negra en la foto es semejanza.
+
+Los dos relojes están utilizando simetria porque son iguales aunque sean de distinto color.
+
+Tarea: 7 imagenes de gestalt, hay imagenes que pueden traer simetria y semejanza
+
+Continuidad: Por más que haya un texto debajo de donde dice qué es arquitectura siempre vamos a empezar leyendo el menu en forma lineal, luego bajamos y seguimos leyendo en una flecha lineal
+
+Semejanza: La semejanza se puede ver porque comparten fondos blancos, colores, tamaño, orientación por como están tomadas las fotos e inclusive, con las fuentes de los textos.
+
+Simetría: si trazo una linea imaginaria aqui, hay simetria en las imagenes, en los iconos y botones.
+
+Figura y fondo: está el fondo de la chica y los textos y botones representan la figura encima del fondo
+
+
+Proximidad: al agrupar estas imágenes de los vinilos cercas uno de las otros, creamos una relación en el grupo entero y percibimos como relacionadas y el contenidos es similar.
+
+
+Cierre: me costó un poco interpretar el cierre en la web porque me salian solo imagenes incompeltas como ejemplos pero en una pagina en especifico venian estos ejemplos donde hay un faltante pero nuestro cerebro ya creó esa imagen y texto faltante porque estamos viendo los demás al lado.
+
+Direccion comun: Agrupamos estos logos que estén moviéndose o apuntando en una misma dirección hacia la derecha, sin importar que diferentes o que tan lejos se encuentren los unos de los otros, más que hay una flecha apuntando donde tiene que ir.
+__________________________________
+Semana 7
+
+Principios diseños de interacción
+
+1-La profe prefiere dos tipos de tipografia. Se recomienda que esas tipografias esténcargadas en google fonts y tengan más opciones de fuente.
+Century gothic es muy bonita para diseño
+Helvetica: fuente: Medium y regular para texto interno. 
+
+2- Serif: con diseño en las letras, es valido para titulares grandes.
+Sin serifa-sans serif: las letras no tienen ningun diseño
+
+En textos grandes se usan sin serifa para no dificultar la lectura.
+
+3-Kerning: Espacio entre dos letras y que no estén pegadas. Asegurarse también que la tipografía traiga todos los caracteres, ejmp la ñ.
+
+4.Tracking: espaciado en todas las letras y no solo dos letras, se sugiere mejorar primero el kerning porque el tracking a espaciar todas las letras no se ve tan bien como arreglar dos letras en una palabra que si están pegadas y las demás no.
+
+5-Espaciado: la letra ya tiene un espacio por default, pero podemos mejorqarlo con px.
+6-Mantener fuentes standard, no muy exageradas o cursivas.
+7.Tamaños de texto apropiado
+8.El uso de mayusculas es solo para enfatizar algo.
+
+Diseño fluido:
+Ejemplos sistema de rejillas, los divs.
+
+Dif entre diseño fluido y responsive: 
+La pagina del bac no es responsive, es diseño fluido al hacerla mas pequeña desde la web.Lo malo de esto es que para celular se tiene que hacer una diferente, se tiene que hacer para mobile.
+
+Responsive: cuando hago mas peque la pagina, me empieza a tirar las cosas hacia abajo.
+
+Breakpoints es igual a reglas css para que se vea bien el contenido en diferentes pantallas.
+
+Brief: orden de trabajo, es un contrato firmado por la persona encargada con fecha y todo por si el cliente reclama algo que no se habló.
+Siempre darnos un colchon de tiempo para entregar el trabajo por si hay algun imprevisto.
+
+________________________
+Proyecto final:
+-Hacer un brief.
+Dos tipos de diagrama de flujo:
+1-Sitemap:las páginas que vamos a trabajar del sitio por secciones
+2-Userflow: cada accion que hace un usuario.
+
+-Wireframe de alta fidelidad-figma
+-Reticula: para desktop son 12, mobile son 4, tablets 8
+-Prototipo mediana fidelidad ya incluyen cajas con textos.
+-5 secciones max
+
+Sunna: no se sabe para quien van o a quienes les van a vender, puede ir a inversores o que la gente conozca la pagina para que descarguen los videojuegos.
+
+Para el user flow hacer las acciones más importantes.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
